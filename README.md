@@ -1,3 +1,4 @@
+#secure_passwords
 # 🔐 Password Generator & Strength Checker
 A Python-based terminal application that generates secure passwords based on user preferences and evaluates their strength. It can also verify whether the generated or entered passwords are commonly used and thus insecure.
 
@@ -26,3 +27,5 @@ A Python-based terminal application that generates secure passwords based on use
 
 🛠️ Requirements
   Python 3.x (standard library only, no external packages)
+
+**The common passwords text file has been used form danielmiessler's  SecLists/blob/master/Passwords/Common-Credentials/100k-most-used-passwords-NCSC.txt**
